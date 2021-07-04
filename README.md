@@ -1,6 +1,7 @@
 # project-extension
 
 final project chrome extension for midaat.org.il
+## Design Project 1, Information Systems - 094396
 
 ## Project setup
 
