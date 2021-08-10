@@ -16,13 +16,16 @@ Team members:<br>
 <li>Yair Matityahu</li>
   </ul>
   
- link to chrome extension:<br>
- https://github.com/dlior/project-extension/blob/main/chrome-extension-midaat-v0.1.0.zip
+<img width="370" alt="chrome_extension" src="https://user-images.githubusercontent.com/48805515/128842815-e1e5cb50-cdb4-4251-9885-b97cbc2ed075.png">
+
+
 
 ## Project setup
 
 ```
-npm install
+git clone https://github.com/dlior/project-extension.git
+cd project-extension
+npm i
 ```
 
 ### Compiles and hot-reloads for development
@@ -35,12 +38,6 @@ npm run serve
 
 ```
 npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
 ```
 
 ### Customize configuration
