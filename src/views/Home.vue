@@ -33,7 +33,7 @@ export default {
 
     onMounted(() => {
       store.dispatch('fetchFaqsAction');
-      if (!store.state.tweets.length) store.dispatch('fetchTweetsAction');
+      store.dispatch('fetchTweetsAction');
     });
 
     return {
