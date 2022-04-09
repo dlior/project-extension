@@ -1,4 +1,5 @@
-### Final Project
+### Final Project (Full Stack App)
+#### * Grade 96 *
 
 ## Chrome Extension for Midaat Organization
 
